@@ -3,6 +3,8 @@
 This is a simple to-do list application built with React, featuring basic task management functionalities like adding, updating, deleting tasks, and marking tasks as completed.
 
 ![Screenshot 2023-09-13 at 6 33 38 PM](https://github.com/AnweshaPatra/react-todo-app-v1/assets/36663339/9775d12a-8e0b-4f13-8230-e3dea0d00fcc)
+![Screenshot 2023-09-13 at 6 39 13 PM](https://github.com/AnweshaPatra/react-todo-app-v1/assets/36663339/df08be38-50da-46f6-a00d-ae680fa107be)
+
 
 ## Table of Contents
 
