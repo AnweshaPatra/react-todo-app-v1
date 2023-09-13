@@ -93,3 +93,18 @@ h1 {
 .delete-icon {
   margin-right: 10px;
 }
+
+.about {
+  position: absolute;
+  bottom: 0;
+  left: 0; /* You can adjust the left position if needed */
+  padding: 10px; /* Add padding or adjust as needed */
+  color: white; /* Text color */
+  text-align: center; /* Center the text horizontally */
+  width: 100%; /* Make it span the full width of the page */
+}
+
+.about a img {
+  width: 32px; /* Adjust the width as needed */
+  height: 32px; /* Adjust the height as needed */
+}
